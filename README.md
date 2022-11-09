@@ -2,19 +2,8 @@
 
 # Power Spokes
 
-Power-Spokes is a booking app for motorcycles where users get to book a reservation for a motorcycles
+The profile portfolio of Menanya Morris'
 
-You can see the backend for this project(https://github.com/Addisu87/capstone-appointment-back-end).
-
-## Kanban Board
-
-[Kanban Board Link]()
-
-- We are four (4) in this team.
-
-  - @Emmykage
-  - @Isaacpitwa
-  - @Addisu87
 
 ### Our Kanban board
 
@@ -23,7 +12,6 @@ https://github.com/users/Emmykage/projects/4/views/1
 ## Built With
 
 - React
-- Redux
 - Deployed with Netlify
 
 ## Live Demo & Screenshots
@@ -93,21 +81,7 @@ npm start
 npm test
 ```
 
-## Authors
-
-👤 **Addisu Haile**
-
-- GitHub: [@Addisu87](https://img.shields.io/badge/-Addisu87-white?logo=GitHub&logoColor=181717&style=plastic)
-- Twitter: [@AddisuTedla](https://img.shields.io/badge/-AddisuTedla-white?logo=Twitter&logoColor=1DA1F2&style=plastic)
-- LinkedIn: [addisu-tedla](https://img.shields.io/badge/-addisu_tedla-white?logo=LinkedIn&logoColor=1DA1F2&style=plastic)
-
-## 👤 Isaac Pitwa
-
-- GitHub: [@isaacpitwa](https://github.com/isaacpitwa)
-- Twitter: [@isaacpitwa](https://twitter.com/isaacpitwa)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/isaac-pitwa)
-
-## 👤 Menanya Morris
+## Author
 
 - GitHub: [@emmykage](https://github.com/emmykage)
 - Twitter: [@emmykage](https://twitter.com/emmykage)
