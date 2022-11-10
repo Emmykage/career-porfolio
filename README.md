@@ -5,9 +5,6 @@
 The profile portfolio of Menanya Morris'
 
 
-### Our Kanban board
-
-https://github.com/users/Emmykage/projects/4/views/1
 
 ## Built With
 
