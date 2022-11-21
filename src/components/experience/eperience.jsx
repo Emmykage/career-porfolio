@@ -39,12 +39,12 @@ function Experience() {
             
           </div>
         </div>
-        <div className="experience_backtend">
+        <div className="experience_backend">
           <h3>Backend Development</h3>
           <div className="experience_content">
             <article className='experience_details'>
               <BsPatchCheckFill className='experience-details-icon'/>
-              <h4>NOde.js</h4>
+              <h4>Node.js</h4>
               <small className='text-light'>Experienced</small>
             </article>
             <article className='experience_details'>

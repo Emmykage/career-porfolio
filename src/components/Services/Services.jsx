@@ -16,24 +16,24 @@ function Services() {
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>dipisicing elit.</p>
+              <p>App Mock up</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
+              <p>Wireframe design</p>
+            </li>
+            <li>
+               <BiCheck className='service_list-icon' />
+              <p>Figma Design</p>
+            </li>
+            { /*<li>
+          <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
         <article className='service'>
@@ -76,20 +76,20 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Desktop</p>
+              <p>Desktop App</p>
             </li>
             <li>
+              <BiCheck className='service_list-icon' />
+              <p>Ruby Development</p>
+            </li>
+            {/* <li>
               <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+            </li> */}
           </ul>
         </article>
       </div>
