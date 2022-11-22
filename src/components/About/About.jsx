@@ -42,11 +42,11 @@ const About =() =>{
 
                     </article> */}
                 </div>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, obcaecati et ratione quas quod labore ex culpa. Cupiditate, qui itaque?
+                <h3>
+                Hey, my name is Morris, I am a full-stack software developer who currently is specialized in using Javascript and reactJs, Ruby, Ruby on Rails, NodeJs and Java I'm currently remote opportunities.
 
         
-                </p>
+                </h3>
                 <a href="#contacts" className="btn btn-primary">Let's Talk</a>
             </div>
           </div>
