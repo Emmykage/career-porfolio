@@ -2,13 +2,16 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    width: 100%;
+    /* background-color: red; */
 }
 .experience_container > div {
     background: var(--color-bg-variant);
-    padding: 2.4rem 5rem;
+    padding: 2.4rem 3rem;
     border-radius: 2rem ;
     border: 1px solid transparent;
     transition: var(--transition);
+    /* background-color: yellow; */
 }
 .experience_container > div:hover{
     border-color: var(--color-primary-variant);

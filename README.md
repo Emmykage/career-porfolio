@@ -5,9 +5,6 @@
 The profile portfolio of Menanya Morris'
 
 
-### Our Kanban board
-
-https://github.com/users/Emmykage/projects/4/views/1
 
 ## Built With
 
@@ -16,16 +13,7 @@ https://github.com/users/Emmykage/projects/4/views/1
 
 ## Live Demo & Screenshots
 
-> [POWER-STROKE](https://final-capstone-project-udqc.vercel.app)
-
-<table>
-<tr>
-<td><img src="src/img/splash.png" alt="splash page"></td>
-<td><img src="src/img/signup.png" alt="signup page"></td>
-<td><img src="src/img/login.png" alt="login page"></td>
-</tr>
-</table>
-<div align="center"><img src="src/img/all-versions-picture.png" alt="all pages"></div>
+> [LIVE-DEMO](https://guileless-sable-394525.netlify.app/)
 
 ## Getting Started
 
@@ -54,7 +42,7 @@ cd folder
 - Clone the repo:
 
 ```bash
-git clone https://github.com/Emmykage/Final-capstone-project.git
+git clone https://github.com/Emmykage/career-portfolio
 ```
 
 ### Install

@@ -20,20 +20,19 @@ import { Pagination } from "swiper";
 const data = [{
   avatar: AVT1,
   name: 'Kay Muna',
-  review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, porro saepe? Quis facilis numquam iste, quae optio, nam delectus esse unde temporibus, dolores expedita odit dolor quidem? Voluptatem, ad facere!',
+  review: 'The team represents among the highest levels of developers I have experienced. quality product delivery, responses to queries were turned around very fast. Products codes were clear and where necessary detailed enough for us to make informed decisions quickly, minimising the end to end time to process complex transactions among a number of parties.',
 
 },
 {
 avatar: AVT1,
 name: 'Nastie Arinze',
-review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, porro saepe? Quis facilis numquam iste, quae optio, nam delectus esse unde temporibus, dolores expedita odit dolor quidem? Voluptatem, ad facere!',
+review: 'A fantastic developer! Great cutomer support from beginning to end of the process. The team are really informed and go the extra mile at every stage. I would recommend them unreservedly.',
 
 },
 {
 avatar: AVT1,
 name: 'Kay Muna',
-review: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum, porro saepe? Quis facilis numquam iste, quae optio, nam delectus esse unde temporibus, dolores expedita odit dolor quidem? Voluptatem, ad facere!',
-
+review: 'I chatted with Morris. He was very helpful and answered all my questions concerning my product. I believe he had my interest at heart and found the best coverage for me at a good price.'
 }]
 
 function Testimonial() {
