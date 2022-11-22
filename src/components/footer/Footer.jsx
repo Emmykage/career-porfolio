@@ -1,7 +1,7 @@
 import React from 'react'
 import './footer.css'
-import {FaFacebookF} from 'react-icons/fa'
-import {FaInstagram} from 'react-icons/fa'
+import {FaGithub} from 'react-icons/fa'
+import {FaLinkedinIn} from 'react-icons/fa'
 import {IoLogoTwitter} from 'react-icons/io'
 
 function Footer() {
@@ -20,9 +20,9 @@ function Footer() {
 
       </ul>
       <div className='footer_socials'>
-        <a href='facebook'><FaFacebookF/></a>
-        <a href='facebook'><FaInstagram /></a>
-        <a href='facebook'><IoLogoTwitter/></a>
+        <a href='https://www.linkedin.com/in/morris-menanya/'><FaLinkedinIn/></a>
+        <a href='https://github.com/Emmykage'><FaGithub /></a>
+        <a href='https://twitter.com/mennydev'><IoLogoTwitter/></a>
       </div>
       <div className='footer_copyright'>
         <small>&copy; Vortech. All rights reserved</small>
