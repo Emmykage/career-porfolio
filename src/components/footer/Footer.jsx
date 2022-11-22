@@ -19,10 +19,10 @@ function Footer() {
 
 
       </ul>
-      <div className='footer_socials'>
-        <a href='https://www.linkedin.com/in/morris-menanya/'><FaLinkedinIn/></a>
-        <a href='https://github.com/Emmykage'><FaGithub /></a>
-        <a href='https://twitter.com/mennydev'><IoLogoTwitter/></a>
+      <div className='footer_socials'> 
+        <a href='https://www.linkedin.com/in/morris-menanya/' target='_blank'><FaLinkedinIn/></a>
+        <a href='https://github.com/Emmykage' target="_blank"><FaGithub /></a>
+        <a href='https://twitter.com/mennydev' target='_blank'><IoLogoTwitter/></a>
       </div>
       <div className='footer_copyright'>
         <small>&copy; Vortech. All rights reserved</small>
