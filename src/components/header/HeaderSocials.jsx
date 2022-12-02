@@ -6,9 +6,9 @@ import {AiFillDribbbleSquare} from 'react-icons/ai'
 function HeaderSocials() {
   return (
     <div className='header_socials'>
-        <a href='https://linkedin.com' target="_blank"><BsLinkedin /></a>
-        <a href='https://github.com' target="_blank"><BsGithub/></a>
-        <a href='https://linkedin.com' target="_blank"><AiFillDribbbleSquare /></a>
+        <a href='https://www.linkedin.com/in/morris-menanya/' target="_blank"><BsLinkedin /></a>
+        <a href='https://github.com/Emmykage' target="_blank"><BsGithub/></a>
+        <a href='https://twitter.com/mennydev' target="_blank"><AiFillDribbbleSquare /></a>
     </div>
   )
 }
