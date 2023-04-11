@@ -1,6 +1,6 @@
-# Final-capstone-project
+# My Personal Career Portfolio
 
-# Power Spokes
+# Career Portfolio
 
 The profile portfolio of Menanya Morris'
 
