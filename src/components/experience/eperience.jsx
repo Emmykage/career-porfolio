@@ -26,14 +26,18 @@ function Experience() {
               <h4>Javascript</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
+            
             <article className='experience_details'>
               <BsPatchCheckFill className='experience-details-icon'/>
-              <h4>Bootstrap</h4>
-              {/* <small className='text-light'>Experienced</small> */}
+              <h4>ReactJs</h4>
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience-details-icon'/>
-              <h4>React</h4>
+              <h4>WordPress</h4>
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience-details-icon'/>
+              <h4>React Native</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
             
@@ -54,6 +58,11 @@ function Experience() {
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience-details-icon'/>
+              <h4>Postgres</h4>
+              {/* <small className='text-light'>Experienced</small> */}
+            </article>
+            <article className='experience_details'>
+              <BsPatchCheckFill className='experience-details-icon'/>
               <h4>Ruby on Rails</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
@@ -69,7 +78,7 @@ function Experience() {
             </article>
             <article className='experience_details'>
               <BsPatchCheckFill className='experience-details-icon'/>
-              <h4>Ruby</h4>
+              <h4>Java SpringBoot</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
             
