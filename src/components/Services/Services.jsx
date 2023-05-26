@@ -48,7 +48,11 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>BAck End Debelopment</p>
+              <p>Back End Debelopment</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>FullStack Debelopment</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
@@ -76,20 +80,17 @@ function Services() {
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Desktop App</p>
+              <p>Javascript App Development</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
               <p>Ruby Development</p>
             </li>
-            {/* <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li> */}
+              <p>Java Development</p>
+            </li>
+          
           </ul>
         </article>
       </div>

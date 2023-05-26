@@ -19,8 +19,8 @@ import { Pagination } from "swiper";
 
 const data = [{
   avatar: AVT1,
-  name: 'Kay Muna',
-  review: 'The team represents among the highest levels of developers I have experienced. quality product delivery, responses to queries were turned around very fast. Products codes were clear and where necessary detailed enough for us to make informed decisions quickly, minimising the end to end time to process complex transactions among a number of parties.',
+  name: 'Femi Bello',
+  review: "Fantastic Job well done and very pleased with the way My Job was handled with precise and accuracy, well expressed with detailed information as I want it. I will recommend his work to friends and families and hope to get another site done again and again, Well Done"
 
 },
 {
