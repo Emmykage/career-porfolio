@@ -43,7 +43,7 @@ const About =() =>{
                     </article> */}
                 </div>
                 <h3>
-                Hey, my name is Morris, I am a full-stack software developer who currently is specialized in using Javascript and reactJs, Ruby, Ruby on Rails, NodeJs and Java I'm currently remote opportunities.
+                Hey, my name is Morris, I am a full-stack software developer who currently is specialized in using Javascript and reactJs, Ruby, Ruby on Rails, NodeJs and Java I'm  open  remote opportunities.
 
         
                 </h3>

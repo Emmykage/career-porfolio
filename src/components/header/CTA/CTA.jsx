@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../../assets/Menanya_Morris_FullStack_Developer.pdf'
+import CV from '../../../assets/Menanya Morris Full-Stack Developer.pdf'
 
 
 function CTA() {

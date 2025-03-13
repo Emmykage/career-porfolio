@@ -1,37 +1,36 @@
 import React, { useState } from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/img/melisports_home.PNG'
-import IMG2 from '../../assets/img/portfolio-two-pokemon.PNG'
-import IMG3 from '../../assets/img/portfolio-three-ag-city.PNG'
+import IMG2 from '../../assets/img/artisan-directory.PNG'
+import IMG3 from '../../assets/img/bitbridgeglobal.PNG'
 import IMG4 from '../../assets/img/portfolio-four-movie-mania.PNG'
-import IMG5 from '../../assets/img/power_spokes backend.PNG'
+import IMG5 from '../../assets/img/abf accounting.PNG'
 import IMG6 from '../../assets/img/investedge.PNG'
 import Project from './Project'
+import IMG7 from '../../assets/img/portfolio-three-ag-city.PNG'
 
 
 const data = [{
   id: 1,
   image: IMG1,
   github:'https://github.com/Emmykage/melisports-tennis',
-  demo: 'https://bright-gecko-6f953b.netlify.app/',
-  title: 'E-Commerce Store',
+  demo: 'https://melisports.com/',
+  title: ' E-Commerce Store',
   description: "This retail app is built with ReactJS, Ruby on Rails, Redux, and Postgres database. Users can browse, add to a cart and purchase products. ReactJS provides a responsive UI, while Redux manages data flow. Ruby on Rails ensures a secure API, and Postgres offers efficient data management."
 },
 {
   id: 2,
   image: IMG2,
-  github:'https://github.com/Emmykage/Pokemon-CapstoneProject',
-  demo: 'https://emmykage.github.io/Pokemon-CapstoneProject/dist/',
-  title: 'Pokemon Pokedex',
-  description: "PokeDex: Your Ultimate Pokémon Guide - the essential app that showcases all Pokémon characters and their unique abilities. Dive into a comprehensive database, explore detailed descriptions, movesets, evolutions, and learn about their strengths and weaknesses. Stay updated with new releases and events, bookmark favorites, and connect with fellow trainers. Become a Pokémon expert with PokeDex, your go-to companion for all things Pokémon!"
+  demo: 'https://artisans-frontend.vercel.app/',
+  title: 'Artisan-Directory',
+  description: "ArtisanHub aims to revolutionise the way artisans and clients connect and collaborate, fostering a thriving ecosystem of skilled professionals and satisfi ed customers within Nasarawa State. Whether you need a skilled artisan or are looking to showcase your craftsmanship, ArtisanHub is your go-to destination"
   },
 {
   id: 3,
   image: IMG3,
-  github:'https://github.com/Emmykage/AG-City',
-  demo: 'https://emmykage.github.io/AG-City/',
-  title: 'Agrow-City Food Export',
-  description: "Introducing FoodExportNG: Nigeria's Culinary Exports- the ultimate website for exploring and sourcing Nigerian food exports. Discover a diverse range of products, connect with trusted suppliers, and experience the vibrant flavors of Nigeria. Join us at FoodExportNG and embark on a delicious journey today!"
+  demo: 'https://www.bitbridgeglobal.com/',
+  title: 'BitBtridge Gblobal',
+  description: "A wallet-based web application facilitating seamless cryptocurrency transactions and digital asset management and also provides utility bills payment seamlessly using a system. Built with modern web technologies, it integrates secure authentication, intuitive UI/UX, and real-time data updates to enhance user experience."
 },
 {
   id: 4,
@@ -46,18 +45,27 @@ const data = [{
   id: 5,
   image: IMG5,
   github:'https://github.com/Emmykage/Final-capstone-project/tree/dev',
-  demo: 'https://final-capstone-project-udqc.vercel.app/',
-  title: 'Motocycle Booking App',
-  description: "Introducing RideOn: Book Your Motorcycle Adventure - a sleek ReactJS and Rails app that lets you browse and reserve motorcycles effortlessly. Discover a variety of bikes, make reservations, and hit the road in style. Experience the thrill of RideOn today!"
+  demo: 'https://abfaccounting.com/',
+  title: 'ABF Accounting',
+  description: "ABF Accounting Services provides comprehensive accounting solutions for UK businesses of all sizes. Our team of professional accountants is dedicated to helping your business grow through tailored financial strategies and seamless compliance with UK regulations."
 },
+
 {
   id: 6,
-  image: IMG6,
-  github:'https://github.com/Emmykage/finance-app',
-  demo: 'https://admirable-wisp-900f98.netlify.app/',
-  title: 'Investment App',
-  description: "The investment app is a user-friendly mobile application designed to provide individuals with a convenient and accessible platform to manage their investments. With this app, users can easily track and monitor their investment portfolios, stay updated with real-time market data, and make informed investment decisions."
+  image: IMG7,
+  github:'https://github.com/Emmykage/AG-City',
+  demo: 'https://emmykage.github.io/AG-City/',
+  title: 'Agrow-City Food Export',
+  description: "Introducing FoodExportNG: Nigeria's Culinary Exports- the ultimate website for exploring and sourcing Nigerian food exports. Discover a diverse range of products, connect with trusted suppliers, and experience the vibrant flavors of Nigeria. Join us at FoodExportNG and embark on a delicious journey today!"
 }
+// {
+//   id: 7,
+//   image: IMG6,
+//   github:'https://github.com/Emmykage/finance-app',
+//   demo: 'https://admirable-wisp-900f98.netlify.app/',
+//   title: 'Investment App',
+//   description: "The investment app is a user-friendly mobile application designed to provide individuals with a convenient and accessible platform to manage their investments. With this app, users can easily track and monitor their investment portfolios, stay updated with real-time market data, and make informed investment decisions."
+// }
 ]
 
 function Portfolio() {
