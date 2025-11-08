@@ -24,24 +24,20 @@ const Project = ({ props }) => {
       </a>
 
       <Modal
-        title="Basic Modal"
+        title={title}
         closable={{ "aria-label": "Custom Close Button" }}
         open={toggle}
-        // onOk={handleOk}
+        onOk={null}
         onCancel={() => setToggle(false)}
+        footer={null}
       >
         {/* <div className={toggle ? "modal-container show" : "modal-container"}> */}
-        <div className="modal modal-container show">
-          <div className="modal-title">
-            <button onClick={() => setToggle(false)}>close</button>
-            <h2>{title}</h2>
-          </div>
-
-          <div className="modal-body">
-            <img src={image} alt="" />
-            <div>
-              <p>{description}</p>
-              <div className="btn-div">
+        <div className="modal modal-container show ">
+          <div className="bg-transparent">
+            <img src={image} alt={title} className="h-96" />
+            <div className="">
+              <p className="my-4 text-white">{description}</p>
+              <div className=" flex justify-between ">
                 {github && (
                   <a href={github} className="btn" target="_blank">
                     Github

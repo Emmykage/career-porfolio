@@ -167,3 +167,19 @@
     gap: 1rem;
   }
 }
+.ant-modal .ant-modal-content {
+  /* background: #5b6bb7; */
+  @apply bg-gray-800;
+}
+
+.ant-modal .ant-modal-content .ant-modal-close {
+  /* background-color: transparent; */
+  @apply text-white;
+}
+
+.ant-modal .ant-modal-header {
+  background-color: transparent;
+}
+.ant-modal .ant-modal-header .ant-modal-title {
+  @apply text-white;
+}

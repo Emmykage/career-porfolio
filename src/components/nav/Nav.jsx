@@ -1,10 +1,9 @@
 import React, { useState } from "react";
 import { AiOutlineHome } from "react-icons/ai";
-import { GrUserExpert } from "react-icons/gr";
 import { BiBook } from "react-icons/bi";
-import { RiServiceLine } from "react-icons/ri";
-import { GrContact } from "react-icons/gr";
+import { RiContactsBookLine, RiServiceLine } from "react-icons/ri";
 import "./nav.css";
+import { FaRegUser } from "react-icons/fa";
 
 function Nav() {
   const [activeNav, setActiveNav] = useState("#");
@@ -22,7 +21,7 @@ function Nav() {
         onClick={() => setActiveNav("#about")}
         className={activeNav === "#about" ? "active" : ""}
       >
-        <GrUserExpert />
+        <FaRegUser />
       </a>
       <a
         href="#experience"
@@ -43,7 +42,7 @@ function Nav() {
         onClick={() => setActiveNav("#contact")}
         className={activeNav === "#contact" ? "active" : ""}
       >
-        <GrContact />
+        <RiContactsBookLine />
       </a>
     </nav>
   );
