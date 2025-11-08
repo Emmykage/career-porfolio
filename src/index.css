@@ -42,6 +42,7 @@ body {
     linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
     url("../src/assets/img/26669.jpg");
   /* background-image: url(); */
+  padding: 0 10px;
 
   font-family: "Poppins", sans-serif;
   font-family:

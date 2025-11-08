@@ -87,7 +87,7 @@
     margin: 0 auto 3rem;
   }
   .about_cards {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 1rem;
   }
   .about_content {

@@ -39,7 +39,7 @@ const About = () => {
 
                     </article> */}
           </div>
-          <h3>
+          <h3 className="mt-6">
             I’m a full-stack developer with experience building production-ready
             web applications using Ruby on Rails, JavaScript, React.js, and
             Node.js. I’ve developed both full-stack and API-based systems,
@@ -49,7 +49,7 @@ const About = () => {
             teams using agile practices. I’m always eager to learn, grow, and
             take on new challenges in remote opportunities worldwide.
           </h3>
-          <a href="#contacts" className="btn btn-primary">
+          <a href="#contacts" className="btn btn-primary mt-6">
             Let's Talk
           </a>
         </div>
