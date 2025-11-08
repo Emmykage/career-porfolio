@@ -40,9 +40,14 @@ const About = () => {
                     </article> */}
           </div>
           <h3>
-            Hey, my name is Morris, I am a full-stack software developer who
-            currently is specialized in using Javascript and reactJs, Ruby, Ruby
-            on Rails, NodeJs and Java I'm open remote opportunities.
+            I’m a full-stack developer with experience building production-ready
+            web applications using Ruby on Rails, JavaScript, React.js, and
+            Node.js. I’ve developed both full-stack and API-based systems,
+            including HR management tools and business applications. <br />{" "}
+            <br /> I completed the Microverse Software Development Program,
+            where I gained hands-on experience working remotely with global
+            teams using agile practices. I’m always eager to learn, grow, and
+            take on new challenges in remote opportunities worldwide.
           </h3>
           <a href="#contacts" className="btn btn-primary">
             Let's Talk

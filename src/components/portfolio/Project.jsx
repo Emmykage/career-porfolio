@@ -1,3 +1,4 @@
+import { Modal } from "antd";
 import React, { useState } from "react";
 
 const Project = ({ props }) => {
@@ -22,8 +23,15 @@ const Project = ({ props }) => {
         </div>
       </a>
 
-      <div className={toggle ? "modal-container show" : "modal-container"}>
-        <div className="modal">
+      <Modal
+        title="Basic Modal"
+        closable={{ "aria-label": "Custom Close Button" }}
+        open={toggle}
+        // onOk={handleOk}
+        onCancel={() => setToggle(false)}
+      >
+        {/* <div className={toggle ? "modal-container show" : "modal-container"}> */}
+        <div className="modal modal-container show">
           <div className="modal-title">
             <button onClick={() => setToggle(false)}>close</button>
             <h2>{title}</h2>
@@ -45,8 +53,9 @@ const Project = ({ props }) => {
               </div>
             </div>
           </div>
+          {/* </div> */}
         </div>
-      </div>
+      </Modal>
     </article>
   );
 };

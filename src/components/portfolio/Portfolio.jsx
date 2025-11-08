@@ -3,7 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/img/melisports_home.PNG";
 import IMG2 from "../../assets/img/artisan-directory.PNG";
 import IMG3 from "../../assets/img/bitbridgeglobal.PNG";
-import IMG4 from "../../assets/img/portfolio-four-movie-mania.PNG";
+import IMG4 from "../../assets/img/gabify-home.PNG";
 import IMG5 from "../../assets/img/abf accounting.PNG";
 import IMG6 from "../../assets/img/investedge.PNG";
 import Project from "./Project";
@@ -39,10 +39,10 @@ const data = [
     id: 4,
     image: IMG4,
     github: "https://github.com/Emmykage/React-Capstone",
-    demo: "https://relaxed-empanada-1b339a.netlify.app/",
-    title: "Movie Mania",
+    demo: "https://gabifyfoundation.com/",
+    title: "Gabify Foundation",
     description:
-      "Introducing MovieMania: Your Movie Hub - a sleek and user-friendly ReactJS website powered by a movie API. Explore a vast collection of movies, stay updated with the latest releases, and create your personalized watchlist. Dive into the world of cinema with MovieMania today!",
+      "Gabify Foundation Nigeria is dedicated to empowering para-athletes and building inclusive communities through sports, education, and social initiatives. We provide training, mentorship, and support to help individuals thrive and achieve their full potential",
   },
   {
     id: 5,

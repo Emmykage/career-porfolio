@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../../assets/Menanya Morris Full-Stack Developer.pdf";
+import CV from "../../../assets/Menanya_Morris_Full_Stack_Developer.pdf";
 
 function CTA() {
   return (

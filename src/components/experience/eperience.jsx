@@ -13,27 +13,22 @@ function Experience() {
           <div className="experience_content">
             <article className="experience_details">
               <BsPatchCheckFill className="experience-details-icon" />
-              <h4>HTML</h4>
+              <h4>React/NextJs</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience-details-icon" />
-              <h4>CSS</h4>
+              <h4>React Native</h4>
+              {/* <small className='text-light'>Experienced</small> */}
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience-details-icon" />
+              <h4>WordPress</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience-details-icon" />
               <h4>Javascript</h4>
-              {/* <small className='text-light'>Experienced</small> */}
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience-details-icon" />
-              <h4>Bootstrap</h4>
-              {/* <small className='text-light'>Experienced</small> */}
-            </article>
-            <article className="experience_details">
-              <BsPatchCheckFill className="experience-details-icon" />
-              <h4>React</h4>
               {/* <small className='text-light'>Experienced</small> */}
             </article>
           </div>
