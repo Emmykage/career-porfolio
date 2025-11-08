@@ -4,8 +4,6 @@
 
 The profile portfolio of Menanya Morris'
 
-
-
 ## Built With
 
 - React
